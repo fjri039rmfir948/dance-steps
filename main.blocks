@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id=".7WA^GN+402%kAd=oSL]" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="Lm_z+F7~MKCgFv2X9hIb"><value name="TIMES"><shadow type="math_whole_number" id="VryvfWM0*Xc{lS%;NE@J"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="rW8c,@NNSKQ]2X6I8K!Z"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="^HT(1RSEv;^.ZSE/9W=w"><value name="pause"><shadow type="timePicker" id="bjTllLGFBknFtCo?SaC*"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="AfOpj,~sX`-xZ=)`CZ*8"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="*r/M}vg]oSl;aI!t}SJF"><value name="pause"><shadow type="timePicker" id="Ncpyc@^,]lO;B`Oy2}/V"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id=":Y;EPG^9epQGeHP$Km]O"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="#/$Iv9H4d,?3/+4cMZ?b"><value name="pause"><shadow type="timePicker" id="@lL9K0t(Dv_x#*a{QQ-d"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="O7beyb|s%f%4W)|2g9?4"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="WM|-[1.khTN5P|V:M=W("><value name="pause"><shadow type="timePicker" id="[|a24iS=9n)tY|yJZ2]Y"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="device_clear_display" id="Uhh$.?$bu=-|7g+1pezJ"></block></next></block></statement></block></xml>
